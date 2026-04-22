@@ -1,5 +1,5 @@
 {
-    "name": "andre-joki/bansos-api",
+    "name": "andre-satriawan/bansos-api",
     "description": "REST API Data Bantuan Sosial Pemerintah (Laravel 13 style)",
     "type": "project",
     "keywords": ["laravel", "api", "bansos"],
